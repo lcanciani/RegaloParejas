@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/web/compraExitosa.jsp</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/Servlets/LogOut.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/DTOs/DtoParejasArticulos.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/DTOs/DtoArticulosMasSolicitado.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/web/registrarDeposito.jsp</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/modelo/Factura.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/web/bootstrap.html</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/controlador/AccesoDatos.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/modelo/Pareja.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/web/altaArticulo.jsp</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/web/menu.jsp</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/web/reportes.jsp</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/web/listadoParejas.jsp</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/Servlets/RegistroPareja.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/web/RegistrarPareja.jsp</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/Servlets/Reportes.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/DTOs/DtoDeposito.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/web/logIn.jsp</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/modelo/Articulo.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/controlador/Conexion.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/web/compraFallida.jsp</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/Servlets/ListadoParejas.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/web/compraArticulo.jsp</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/Servlets/pruebas.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/Servlets/Logear.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/Servlets/ListadoPrecios.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/Servlets/compraArticulo.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/Servlets/ListadoArticulos.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/web/listadoArticulos.jsp</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/Servlets/RegistroCompra.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/web/compraSinArticulo.jsp</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/Servlets/EditarArticulo.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/web/EditarArticulo.jsp</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/Servlets/AltaArticulo.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/DTOs/DtoInsertarCompra.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/web/listadoPrecio.jsp</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/DTOs/DtoCarrito.java</file>
+            <file>file:/C:/Users/ferca/Documents/NetBeansProjects/RegaloParejas/src/java/DTOs/TotalDepositadoPorPareja.java</file>
+        </group>
+    </open-files>
+</project-private>
